@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Juan Carlos Jimenez Morales</h1>
-<h3 align="center">un Ingeniero y Maestro en Ciencias Computacionales apacionado con a las tecnologias emergentes en el area del desarrollo de software</h3>
+<h3 align="center">Ingeniero electrónica y telecom; Maestro en Ciencias Computacionales apacionado a las tecnologias emergentes en el area del desarrollo de software</h3>
 
 - 🔭 I’m currently working on [github copilot](https://github.com/features/copilot)
 
