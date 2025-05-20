@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Juan Carlos Jimenez Morales</h1>
 <h3 align="center">Ingeniero electrónica y telecom; Maestro en Ciencias Computacionales apacionado a las tecnologias emergentes en el area del desarrollo de software</h3>
 
-- 🔭 I’m currently working on [github copilot](https://github.com/features/copilot)
+- 🔭 Actualmente trabajo en el desarrollo y mejora de herramientas basadas en inteligencia artificial, como [GitHub Copilot](https://github.com/features/copilot), enfocándome en la integración y optimización de flujos de trabajo para desarrolladores.
 
-- 🌱 I’m currently learning **Materilice, react,nodejs,javacrip**
+- 🌱 Me encuentro aprendiendo y perfeccionando habilidades en **Materialize, React, Node.js y JavaScript**, explorando nuevas tendencias y mejores prácticas en desarrollo web y de software.
 
-- 👯 I’m looking to collaborate on [visual estudio code](https://code.visualstudio.com/)
+- 👯 Busco colaborar en proyectos innovadores relacionados con [Visual Studio Code](https://code.visualstudio.com/), contribuyendo a la creación de extensiones y soluciones que potencien la productividad de la comunidad de desarrolladores.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
